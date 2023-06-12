@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T03:07:38.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" version="21.2.9" etag="3Hz6DPuq3NBHm1gepXuy" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T03:15:30.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.0.0" etag="Cb9WKM4I8SwQH8UfSY11" version="21.2.9" type="github">
   <diagram name="第 1 页" id="qoo20HcpE0CQszKYp_CD">
-    <mxGraphModel>
+    <mxGraphModel dx="1155" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-1" value="管理用户账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-2" value="图书目录管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-3" value="借阅归还管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-4" value="数据可视化分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-5" value="图书提醒通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-6" value="权限控制管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-7" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-10" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-11" value="注销账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-13" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-14" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-15" value="登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="165" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KE7QJ5qcuOXsBu1_FsYn-17" value="图书管理系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
